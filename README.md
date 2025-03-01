@@ -8,3 +8,9 @@ It's about writing several modules making it possible to reproduce the deploymen
 
 **![Jenkins server](/Capute-deploy-jenkins.png)**
 
+# prerequisites
+ Credentials: aws_access_key_id and aws_secret_access_key
+ Key-pair for ssh connexion 
+
+ 
+# Steps to be carried out
