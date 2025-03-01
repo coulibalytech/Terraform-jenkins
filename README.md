@@ -17,4 +17,20 @@ It's about writing several modules making it possible to reproduce the deploymen
 Clone the Terraform-jenkins repertoire on your local machine https://github.com/coulibalytech/Terraform-jenkins.git
 - 1 - Launch the "terraform init" command from the app directory/
     **![Terraform init](/screents/Terraform-init.png)**
+  
+- 2 - Launch the "terraform validate" command
+    **![Terraform init](/screents/Terraform-validate.png)**
+  
+- 3 - Launch the "terraform plan" command 
+    **![Terraform init](/screents/Terraform-plan.png)**
+  
+- 4 - Launch the "terraform apply" command 
+    **![Terraform init](/screents/Terraform-apply.png)**
+   Test if jenkins server is up : http://public-ip:8080
+  
+- 5 - Launch the "terraform destroy " command 
+    **![Terraform init](/screents/Terraform-destroy.png)**
+  
+    **![Terraform init](/screents/Terraform-destroy-1.png)**
 
+    **![Terraform init](/screents/Jenkins-server-reselie.png)**
