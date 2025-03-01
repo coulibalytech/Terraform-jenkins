@@ -1,0 +1,7 @@
+.secrets/
+terraform.tfstate.backup
+terraform.tfstate
+.terraform
+.terraform.lock.hcl
+jenkins_ec2.txt
+key-pair/
