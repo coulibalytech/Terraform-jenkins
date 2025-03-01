@@ -14,4 +14,7 @@ It's about writing several modules making it possible to reproduce the deploymen
 
  
 # Steps to be carried out
-Clone the Terraform-jenkins repertoire on your local machine 
+Clone the Terraform-jenkins repertoire on your local machine https://github.com/coulibalytech/Terraform-jenkins.git
+1 - Launch the "terraform init" command from the app directory/
+    **![Terraform init](/screents/Terraform-init.png)**
+
